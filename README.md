@@ -15,6 +15,7 @@ Use this template to [create a repository] with the default initial files for a 
 - test
 - test 3
 - test 4
+- test 5
 
 Once you have created your repository, please:
 
