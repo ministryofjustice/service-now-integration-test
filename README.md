@@ -13,6 +13,7 @@ Use this template to [create a repository] with the default initial files for a 
 - Add a line
 - testing
 - test
+- test 3
 
 Once you have created your repository, please:
 
