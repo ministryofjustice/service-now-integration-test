@@ -10,14 +10,6 @@ Use this template to [create a repository] with the default initial files for a 
 - A CODEOWNERS file
 - A dependabot.yml file
 - The MoJ Compliant Badge (Public repositories only)
-- Add a line
-- testing
-- test
-- test 3
-- test 4
-- test 5
-- test 6
-- test 7
 
 Once you have created your repository, please:
 
