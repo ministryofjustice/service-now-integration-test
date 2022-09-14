@@ -11,6 +11,7 @@ Use this template to [create a repository] with the default initial files for a 
 - A dependabot.yml file
 - The MoJ Compliant Badge (Public repositories only)
 - testing
+- Re
 
 Once you have created your repository, please:
 
