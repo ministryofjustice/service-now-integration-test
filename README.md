@@ -13,6 +13,7 @@ Use this template to [create a repository] with the default initial files for a 
 - testing
 - Rebase commit
 - other way
+- plain merge
 
 Once you have created your repository, please:
 
