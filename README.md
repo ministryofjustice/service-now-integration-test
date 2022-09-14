@@ -14,7 +14,8 @@ Use this template to [create a repository] with the default initial files for a 
 - Rebase commit
 - other way
 - plain merge
-- parent? 
+- parent?
+- from vscode editor 
 
 Once you have created your repository, please:
 
