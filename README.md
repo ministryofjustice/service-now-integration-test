@@ -5,20 +5,6 @@
 Use this template to [create a repository] with the default initial files for a Ministry of Justice Github repository, including:
 
 - The correct LICENSE
-- Github Action example
-- A .gitignore file
-- A CODEOWNERS file
-- A dependabot.yml file
-- The MoJ Compliant Badge (Public repositories only)
-- testing
-- Rebase commit
-- other way
-- plain merge
-- parent?
-- from vscode editor 
-- test commit merge
-- test squash
-- test rebase
 - test plain merge
 
 Once you have created your repository, please:
