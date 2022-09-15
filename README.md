@@ -6,7 +6,7 @@ Use this template to [create a repository] with the default initial files for a 
 
 - The correct LICENSE
 - test plain merge
-
+  -test squash
 
 Once you have created your repository, please:
 
