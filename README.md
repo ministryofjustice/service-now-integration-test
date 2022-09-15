@@ -8,6 +8,8 @@ Use this template to [create a repository] with the default initial files for a 
 - test plain merge
   -test squash
 - test rebase
+- test plain merge 2
+
 Once you have created your repository, please:
 
 - Edit the copy of this README.md file to document your project.
