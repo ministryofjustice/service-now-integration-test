@@ -9,6 +9,7 @@ Use this template to [create a repository] with the default initial files for a 
   -test squash
 - test rebase
 - test plain merge 2
+-test plain merge
 
 Once you have created your repository, please:
 
