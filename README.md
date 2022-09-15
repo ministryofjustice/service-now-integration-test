@@ -17,6 +17,7 @@ Use this template to [create a repository] with the default initial files for a 
 - parent?
 - from vscode editor 
 - test commit merge
+- test squash
 
 Once you have created your repository, please:
 
