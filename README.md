@@ -8,7 +8,7 @@ Use this template to [create a repository] with the default initial files for a 
 - test plain merge
   -test squash
 - test rebase
-Once you have created your repository, please:
+  Once you have created your repository, please:
 
 - Edit the copy of this README.md file to document your project.
 - Grant permission/s to the appropriate MoJ team/s with at least one team having Admin permissions.
