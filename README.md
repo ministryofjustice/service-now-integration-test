@@ -13,6 +13,7 @@ Use this template to [create a repository] with the default initial files for a 
 -test plain main
 -test squash
 -test rebase
+-test merge
 
 Once you have created your repository, please:
 
