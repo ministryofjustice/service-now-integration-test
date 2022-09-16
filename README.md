@@ -9,11 +9,11 @@ Use this template to [create a repository] with the default initial files for a 
   -test squash
 - test rebase
 - test plain merge 2
--test plain merge
--test plain main
--test squash
--test rebase
--test merge
+  -test plain merge
+  -test plain main
+  -test squash
+  -test rebase
+  -test merge
 
 Once you have created your repository, please:
 
