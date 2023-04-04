@@ -14,6 +14,7 @@ Use this template to [create a repository] with the default initial files for a 
 -test squash
 -test rebase
 -test merge
+test_preprod merge
 
 Once you have created your repository, please:
 
