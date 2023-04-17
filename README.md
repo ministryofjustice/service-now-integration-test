@@ -5,18 +5,7 @@
 Use this template to [create a repository] with the default initial files for a Ministry of Justice Github repository, including:
 
 - The correct LICENSE
-- test plain merge
-  -test squash
-- test rebase
-- test plain merge 2
-  -test plain merge
-  -test plain main
-  -test squash
-  -test rebase
-  -test merge
-  test_preprod merge
-  test preprod
-  test preprod 3
+- test merge
 
 Once you have created your repository, please:
 
