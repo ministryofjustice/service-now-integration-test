@@ -15,6 +15,7 @@ Use this template to [create a repository] with the default initial files for a 
   -test rebase
   -test merge
   test_preprod merge
+  test preprod
 
 Once you have created your repository, please:
 
