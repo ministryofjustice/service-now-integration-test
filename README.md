@@ -16,6 +16,7 @@ Use this template to [create a repository] with the default initial files for a 
   -test merge
   test_preprod merge
   test preprod
+  test preprod 3
 
 Once you have created your repository, please:
 
